@@ -48,6 +48,6 @@ public class HalfDiamondPattern {
         // Print the last asterisk row
         System.out.println("*");
 
-        sc.close();  // Close the scanner
+        sc.close();  
     }
 }
